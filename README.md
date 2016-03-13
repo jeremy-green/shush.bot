@@ -70,7 +70,7 @@ Copy the "Webhook URL".
 
 ![Integration Settings](/screenshots/Integration Settings - WebHooks Command.png?raw=true)
 
-Paste the "Webhook URL" in the `shush.bot.js` file under the "routes" directory and start the Express server.
+Paste the "Webhook URL" in the [`shush.bot.js`](https://github.com/jeremy-green/shush.bot/blob/master/routes/shush.bot.js#L22) file under the "routes" directory and start the Express server.
 
 Assuming everything is configured correctly, there are no Node errors and I've
 documented everything properly, then you should be able to anonymously shush
