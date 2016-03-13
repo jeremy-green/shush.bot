@@ -1,0 +1,24 @@
+{
+  "name": "shush.bot",
+  "version": "0.0.1",
+  "description": "Politely ask someone to \"Shhhh!!!\" via Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-green/shush.bot.git"
+  },
+  "author": "jeremy-green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremy-green/shush.bot/issues"
+  },
+  "homepage": "https://github.com/jeremy-green/shush.bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
