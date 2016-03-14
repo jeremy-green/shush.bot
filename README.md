@@ -17,7 +17,7 @@ Run it locally:
 
 `node index.js`
 
-Test a setup with Curl:
+Test the local setup with Curl:
 
 ```bash
 curl \
