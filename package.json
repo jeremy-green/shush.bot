@@ -1,7 +1,7 @@
 {
   "name": "shush.bot",
   "version": "0.0.1",
-  "description": "Politely ask someone to \"Shhhh!!!\" via Slack",
+  "description": "Anonymously but politely ask someone to \"Shhhh!!!\" via Slack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
